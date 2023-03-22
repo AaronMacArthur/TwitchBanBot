@@ -1,6 +1,6 @@
 # TwitchBanBot
 This bot allows streamers to add viewers to a SQLServer and then mass ban them. This bot can be shared between many channels and allows for a shared ban list.
-
+This was really created purely for the NoPixel/GTARP/RDR2RP community but its really helpful in most streaming communities. 
 Setup
 
 1. Create a bot through the Twitch Development portal
